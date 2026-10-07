@@ -1,0 +1,11 @@
+C:\Users\Mohamed Arab\Desktop\haye\haye\bin\Debug\haye.exe.config
+C:\Users\Mohamed Arab\Desktop\haye\haye\bin\Debug\haye.exe
+C:\Users\Mohamed Arab\Desktop\haye\haye\bin\Debug\haye.pdb
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.csproj.AssemblyReference.cache
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.Form1.resources
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.Properties.Resources.resources
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.csproj.GenerateResource.cache
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.exe
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.pdb
+C:\Users\Mohamed Arab\Desktop\haye\haye\obj\Debug\haye.exe.config
